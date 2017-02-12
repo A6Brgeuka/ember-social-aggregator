@@ -3,6 +3,7 @@
 module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'ember-social-aggregator',
+    podModulePrefix: 'ember-social-aggregator/pods',
     environment: environment,
     rootURL: '/',
     locationType: 'auto',
